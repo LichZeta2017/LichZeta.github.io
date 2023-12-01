@@ -10,12 +10,8 @@
 
 #### 【星尘Infinity&Mai】美丽的神话
 
-原曲：《美丽的神话》- 韩红/孙楠
-
-软件及版本：Synthesizer V Studio Pro ver.1.10.1
-
-声库及版本：星尘Infinity ver.109 / Mai ver.103
-
-[跳转到Bilibili](https://www.bilibili.com/video/BV1wc41167KG/)
-
+原曲：《美丽的神话》- 韩红/孙楠  
+软件及版本：Synthesizer V Studio Pro ver.1.10.1  
+声库及版本：星尘Infinity ver.109 / Mai ver.103  
+[跳转到Bilibili](https://www.bilibili.com/video/BV1wc41167KG/)  
 工程文件下载

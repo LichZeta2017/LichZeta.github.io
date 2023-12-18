@@ -14,6 +14,15 @@
 
 下载方法：点击相应的下载链接进入文件详细信息页面，点击右上角的“...”按钮，在下拉列表中选择“Download”，即可下载该文件。
 
+
+#### 【永夜Minus AI】夜太黑
+
+原曲：《夜太黑》- 林忆莲  
+软件及版本：Synthesizer V Studio Pro ver.1.10.1  
+声库及版本：Minus ver.100  
+[点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1pu4y1N7jq/)  
+[点击此处进入工程文件下载页](https://github.com/LichZeta2017/LichZeta.github.io/blob/4a283a92adcafec63134127aa3caa7be76271d64/SVPFiles/%E5%A4%9C%E5%A4%AA%E9%BB%91.svp)  
+
 #### 【星尘Infinity&Mai】美丽的神话
 
 原曲：《美丽的神话》- 韩红/孙楠  
@@ -30,10 +39,4 @@
 [点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1pu4y1N7jq/)  
 [点击此处进入工程文件下载页](https://github.com/LichZeta2017/LichZeta.github.io/blob/058127152346520de42d9cfc8e232c98b48e3f06/SVPFiles/%E4%B8%8D%E8%AE%A9%E6%88%91%E7%9A%84%E7%9C%BC%E6%B3%AA%E9%99%AA%E6%88%91%E8%BF%87%E5%A4%9C.svp)  
 
-#### 【永夜Minus AI】夜太黑
 
-原曲：《夜太黑》- 林忆莲  
-软件及版本：Synthesizer V Studio Pro ver.1.10.1  
-声库及版本：Minus ver.100  
-[点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1pu4y1N7jq/)  
-[点击此处进入工程文件下载页](https://github.com/LichZeta2017/LichZeta.github.io/blob/058127152346520de42d9cfc8e232c98b48e3f06/SVPFiles/%E4%B8%8D%E8%AE%A9%E6%88%91%E7%9A%84%E7%9C%BC%E6%B3%AA%E9%99%AA%E6%88%91%E8%BF%87%E5%A4%9C.svp)  

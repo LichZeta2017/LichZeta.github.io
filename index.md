@@ -20,7 +20,7 @@
 原曲：《夜太黑》- 林忆莲  
 软件及版本：Synthesizer V Studio Pro ver.1.10.1  
 声库及版本：Minus ver.100  
-[点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1pu4y1N7jq/)  
+[点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1Bc411y7Rr/)  
 [点击此处进入工程文件下载页](https://github.com/LichZeta2017/LichZeta.github.io/blob/4a283a92adcafec63134127aa3caa7be76271d64/SVPFiles/%E5%A4%9C%E5%A4%AA%E9%BB%91.svp)  
 
 #### 【星尘Infinity&Mai】美丽的神话

@@ -20,7 +20,7 @@
 软件及版本：Synthesizer V Studio Pro ver.1.10.1  
 声库及版本：Minus ver.100  
 [点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1Bc411y7Rr/)  
-[点击此处进入工程文件下载页](https://github.com/LichZeta2017/LichZeta.github.io/blob/4a283a92adcafec63134127aa3caa7be76271d64/SVPFiles/%E5%A4%9C%E5%A4%AA%E9%BB%91.svp)  
+[点击此处进入工程文件下载页](https://github.com/LichZeta2017/LichZeta.github.io/blob/68ed47dfe3974ae330de96e158beb2acd7714f24/SVPFiles/%E6%A2%A6%E4%B8%80%E5%9C%BA.svp)  
 
 #### 【永夜Minus AI】夜太黑
 

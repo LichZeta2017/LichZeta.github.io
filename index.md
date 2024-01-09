@@ -6,7 +6,7 @@
 
 ## · 注意事项
 
-1. 所提供的工程文件不限制任何**合法**用途。  
+1. 所提供的工程文件不限制任何合法用途。  
 2. 请尽量使用**相同或更新版本**的软件，以及**相同版本**的声库，否则可能导致参数混乱及错误，产生荒谬的声音效果。  
 3. 工程文件使用了本地的.wav文件，而您的个人终端上缺失这些文件，这会导致一个或多个伴奏音轨无效。**请无视之**，因为Vocal音轨的有效性是可以确保的。  
 
@@ -19,7 +19,7 @@
 原曲：《领悟》- 辛晓琪  
 软件及版本：Synthesizer V Studio Pro ver.1.10.1  
 声库及版本：Minus ver.100  
-[点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1r64y1n756/?share_source=copy_web&vd_source=f5473891d4f3b2b778435a4b3d9d3c7b)  
+[点击此处跳转到Bilibili](https://www.bilibili.com/video/BV1mc411t7ar/?share_source=copy_web&vd_source=f5473891d4f3b2b778435a4b3d9d3c7b)  
 [点击此处进入工程文件下载页](https://github.com/LichZeta2017/LichZeta.github.io/blob/38679528e496ab05c6a3deda123fc3c4dea69db5/SVPFiles/%E9%A2%86%E6%82%9F.svp)  
 
 #### 【永夜Minus AI】梦一场
